@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.AssemblyInfo.cs
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.sourcelink.json
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\bin\Debug\net8.0-windows\BadversionOOAP_Lab1.exe
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\bin\Debug\net8.0-windows\BadversionOOAP_Lab1.deps.json
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\bin\Debug\net8.0-windows\BadversionOOAP_Lab1.runtimeconfig.json
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\bin\Debug\net8.0-windows\BadversionOOAP_Lab1.dll
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\bin\Debug\net8.0-windows\BadversionOOAP_Lab1.pdb
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.dll
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\refint\BadversionOOAP_Lab1.dll
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.pdb
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.genruntimeconfig.cache
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\ref\BadversionOOAP_Lab1.dll
+C:\Users\user\Desktop\repos\BadversionOOAP_Lab1\BadversionOOAP_Lab1\obj\Debug\net8.0-windows\BadversionOOAP_Lab1.PCBuilder.resources

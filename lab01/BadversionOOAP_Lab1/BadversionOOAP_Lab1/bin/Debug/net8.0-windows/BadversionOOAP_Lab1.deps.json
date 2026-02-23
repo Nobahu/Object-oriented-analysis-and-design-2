@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BadversionOOAP_Lab1/1.0.0": {
+        "runtime": {
+          "BadversionOOAP_Lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BadversionOOAP_Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
