@@ -1,0 +1,9 @@
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/SmartHouseSystem.dir
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/list_install_components.dir
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/install.dir
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/install/local.dir
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/install/strip.dir
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/SmartHouseSystem_autogen_timestamp_deps.dir
+C:/Users/user/Documents/SmartHouseSystem/build/6_9_1_mingw64_static-Debug/CMakeFiles/SmartHouseSystem_autogen.dir
