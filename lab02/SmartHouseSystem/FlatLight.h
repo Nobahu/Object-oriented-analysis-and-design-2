@@ -12,7 +12,6 @@ enum class LightTemperature
     COLD,
     DAYLIGHT,
     DISCO
-
 };
 
 class Light

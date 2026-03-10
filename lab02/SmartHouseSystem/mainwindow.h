@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include "SmartHouseSystem.h"
 
+
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
@@ -16,8 +17,6 @@ class MainWindow : public QMainWindow
 
 public:
     MainWindow(QWidget *parent = nullptr);
-
-    void updateAllWidgets();
 
     ~MainWindow();
 
@@ -34,13 +33,7 @@ private slots:
     void on_EmptyFlat_pushButton_clicked();
 
 private:
-
-    void updateMasterBedroomWidgets();
-    void updateHallWidgets();
-    void updateKitchenWidgets();
-    void updateBathroomWidgets();
-    void updateHallwayWidgets();
-    void updateSecurityWidgets();
+    void updateAllWidgets();
 
     Ui::MainWindow* ui;
     SmartHouseSystem* myHome;

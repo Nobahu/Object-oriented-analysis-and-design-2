@@ -29,7 +29,7 @@ public:
 
 private:
     std::string location;
-    double temperature;
+    int temperature;
     bool isOn;
 };
 
