@@ -142,7 +142,7 @@ private slots:
 
 private:
     void updateAllWidgets();
-    SmartHouseSystem* myHome;
+    std::unique_ptr<SmartHouseSystem> myHome;
 };
 ```
 Класс MainWindow в данном случае отвечает за графический интерфейс, с которым пользователь работает. При нажатии кнопки, активируется соответствующий сценарий, который обрабатывается **объектом класса SmartHouseSystem**, после чего все показатели в интерфейсе обновляются.
