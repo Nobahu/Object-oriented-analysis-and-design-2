@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+81fbef0007fbbd4a697936094ddecae6 CMakeFiles/SmartHouseSystem_autogen
+81fbef0007fbbd4a697936094ddecae6 CMakeFiles/SmartHouseSystem_autogen_timestamp_deps
+61910023c1b56bf8a8c534bc53a8c9b4 SmartHouseSystem_autogen/timestamp

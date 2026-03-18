@@ -75,4 +75,3 @@ void MainWindow::on_EmptyFlat_pushButton_clicked()
     myHome->emptyFlatScenario();
     updateAllWidgets();
 }
-

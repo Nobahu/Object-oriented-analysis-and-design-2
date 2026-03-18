@@ -1,0 +1,9 @@
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/SmartHouseSystem.dir
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/install.dir
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/SmartHouseSystem_autogen_timestamp_deps.dir
+/home/nobahu/SmartHouseSystem/build/Desktop-Debug/CMakeFiles/SmartHouseSystem_autogen.dir

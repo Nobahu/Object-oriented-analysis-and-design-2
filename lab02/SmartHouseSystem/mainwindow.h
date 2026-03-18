@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include "SmartHouseSystem.h"
+#include <memory>
 
 
 QT_BEGIN_NAMESPACE
@@ -36,6 +37,6 @@ private:
     void updateAllWidgets();
 
     Ui::MainWindow* ui;
-    SmartHouseSystem* myHome;
+    std::unique_ptr<SmartHouseSystem> myHome;
 };
 #endif // MAINWINDOW_H
